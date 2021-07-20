@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(153, 153, 153);
+    position: relative;
+    width: 100vw;
+    height: 75px;
+
+}
+
+#blue-square {
+    position: relative;
+    background-color: rgb(75, 75, 255);
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.main {
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: ;
+    position: relative;
+    /* height: 300px; */
+    /* width: 100vw; */
+}
+
+.blue {
+    position: relative;
+    background-color: blue;
+    height: 125px;
+    width: 100vw;
+}
+
+.aqua {
+    position: relative;
+    background-color: rgb(51, 224, 255);
+    height: 125px;
+    width: 100vw;
+}
+
+.green {
+    position: relative;
+    background-color: rgb(122, 255, 155);
+    height: 125px;
+    width: 100vw;
+}
+
+.yellow {
+    position: relative;
+    background-color: rgb(255, 243, 77);
+    height: 125px;
+    width: 100vw;
+}

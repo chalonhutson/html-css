@@ -1,0 +1,36 @@
+.top {
+    background-color: rgb(51, 51, 51);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20vh;
+    width: 100vw;
+    
+}
+
+.right {
+    background-color: rgb(175, 175, 175);
+    position: absolute;
+    width: 15vw;
+    height: 80vh;
+    right: 0;
+    top: 20vh;
+}
+
+.left {
+    background-color: rgb(175, 175, 175);
+    position: absolute;
+    width: 15vw;
+    height: 80vh;
+    left: 0;
+    top: 20vh
+}
+
+.bottom {
+    background-color: black;
+    position: absolute;
+    height: 10vh;
+    width: 70vw;
+    left: 15vw;
+    bottom: 0;
+}
